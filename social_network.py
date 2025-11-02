@@ -1,4 +1,4 @@
-class Person:
+class Person
     '''
     A class representing a person in a social network.
     Attributes:
